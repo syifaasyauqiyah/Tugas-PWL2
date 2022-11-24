@@ -1,2 +1,4 @@
-# Tugas-PWL2
-tugas 2 pwl
+# Tugas PWL 2 2022
+
+- Nama : Syifa Syauqiyah
+- NIM  : 119140116
